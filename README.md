@@ -94,7 +94,6 @@ Endless-Depths/
 ├── main.code-workspace
 ├── Makefile
 ├── Makefile.Android
-├── LICENSE
 │
 ├── accounts.txt
 ├── lastfloor.txt
@@ -102,6 +101,7 @@ Endless-Depths/
 ├── player_highscores.txt
 │
 ├── resources/
+│   ├── LICENSE
 │   └── music/
 │       └── bgm.mp3
 │
