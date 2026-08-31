@@ -136,9 +136,11 @@ Endless-Depths/
 
 ### Windows
 
-The included `main.exe` can be run directly.
+1. Download or clone the repository.
+2. Keep all files in their original folders.
+3. Run `main.exe`.
 
-Keep the project files in their correct folders because the game reads its save files from the project directory and loads music from:
+The game reads its save files from the project folder and loads background music from:
 
 ```text
 resources/music/bgm.mp3
@@ -146,23 +148,22 @@ resources/music/bgm.mp3
 
 ### Building from Source
 
-The project requires:
+To build the project yourself, install:
 
-* C
+* C compiler
 * raylib
-* GCC/Clang
 * Make or MinGW Make
 
-The included Windows VS Code configuration currently uses:
+The included VS Code configuration uses:
 
 ```text
 C:/raylib/raylib
 C:/raylib/w64devkit
 ```
 
-If raylib is installed somewhere else, update the paths in the VS Code configuration.
+If raylib is installed elsewhere, update the paths in the VS Code configuration files.
 
-The included configuration provides Debug and Release build tasks. macOS and Linux compiler configurations are also included, with the raylib path placeholders needing to be updated for the local installation.
+In VS Code, use the included `build debug` or `build release` task to compile the game.
 
 ## Technical Details
 
