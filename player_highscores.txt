@@ -1,0 +1,5 @@
+rachael BASIC 10
+amy BASIC 6
+amy TIMED 2
+rachael TIMED 4
+rachael2 BASIC 2

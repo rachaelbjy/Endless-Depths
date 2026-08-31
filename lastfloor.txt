@@ -1,0 +1,8 @@
+rachael TIMED 4
+rachael BASIC 7
+dylan BASIC 1
+dylan TIMED 2
+amy TIMED 1
+amy BASIC 1
+rachael2 BASIC 1
+rachael2 TIMED 1

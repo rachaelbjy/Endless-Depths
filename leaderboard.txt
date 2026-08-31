@@ -1,0 +1,6 @@
+rachael BASIC 10
+rachael TIMED 4
+amy TIMED 2
+amy BASIC 6
+dylan TIMED 2
+rachael2 BASIC 2
